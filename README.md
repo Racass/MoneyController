@@ -27,4 +27,5 @@ Banco de dados SQL com as seguintes tabelas:
                                     
                                     
 Todo dia 30 o programa irá copiar os dados do MoneyStorage e mandar para o MoneyLegacy.. Apenas os dados do mês serão utilizados para calculos do programa.
+O programa faz cálculos separados para Poupança, Cartão de Crédito e Cartão de Débito
 (A adicionar: Ler o MoneyLegacy)
