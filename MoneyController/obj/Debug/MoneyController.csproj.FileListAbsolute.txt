@@ -1,0 +1,13 @@
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\bin\Debug\MoneyController.exe.config
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\bin\Debug\MoneyController.exe
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\bin\Debug\MoneyController.pdb
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.AddForm.resources
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Form1.resources
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.InfoConexao.resources
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Infos.resources
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Properties.Resources.resources
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.csproj.GenerateResource.Cache
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.exe
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.pdb
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.csprojResolveAssemblyReference.cache
+C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Pergunta.resources
