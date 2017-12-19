@@ -1,8 +1,6 @@
 # MoneyController
 Uma aplicação para Controle Financeiro
 
-Visual Studio 2013
-
 Dependencias: 
 Banco de dados SQL com as seguintes tabelas:
 
@@ -34,3 +32,7 @@ O programa faz cálculos separados para Poupança, Cartão de Crédito e Cartão
 
 * Mudar a forma de armazenamento de SQL para CSV 
 * * Criptografar os dados no CSV
+* Traduções
+* Melhorar o código
+* Usar NotSimpleLogger para log DEBUG e FINAL
+* Arquitetar para fácil compilação em ANDROID ou IOS
