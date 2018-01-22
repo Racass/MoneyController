@@ -1,4 +1,9 @@
 # MoneyController
+
+*AVISO*: Essa aplicação está desatualizada. Estou planejando rearquitetar a mesma para funcinoar via AZURE, AMAZON WEB ou CSV. Podendo assim ser implementada facilmente em dispositivos IOS e ANDROID cortando a dependencia do SQL. Existem erros na aplicação e ela não cria sozinha as dependencias. É necessários rodar os creates na mão. 
+Exceto essas obeservações, a aplicação funciona normalmente. *AVISO*
+
+
 Uma aplicação para Controle Financeiro
 
 Dependencias: 
