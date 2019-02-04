@@ -35,8 +35,8 @@ O programa faz cálculos separados para Poupança, Cartão de Crédito e Cartão
 
 # To Do
 
-* Mudar a forma de armazenamento de SQL para CSV 
-* * Criptografar os dados no CSV
+* Adicionar a opção de usar MySQL
+* Gerar instalador com criador do banco de dados
 * Traduções
 * Melhorar o código
 * Usar NotSimpleLogger para log DEBUG e FINAL
