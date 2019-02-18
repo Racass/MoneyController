@@ -13,3 +13,6 @@ C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyCon
 C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Pergunta.resources
 C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Inserts.AddLocal.resources
 C:\Projects\rafael.cassiolato\MoneyController\MoneyController\obj\Debug\MoneyController.Informacoes.PorLocal.resources
+C:\Users\rafael.cassiolato\Documents\rafael.cassiolato\MoneyController-master\bin\Debug\MoneyController.exe.config
+C:\Users\rafael.cassiolato\Documents\rafael.cassiolato\MoneyController-master\obj\Debug\MoneyController.exe
+C:\Users\rafael.cassiolato\Documents\rafael.cassiolato\MoneyController-master\obj\Debug\MoneyController.pdb
